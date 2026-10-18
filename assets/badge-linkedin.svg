@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 44" width="132" height="44" role="img" aria-label="LinkedIn">
+  <defs><style>@media (prefers-reduced-motion: reduce) { .pulse { animation: none } }</style></defs>
+  <rect x="1" y="1" width="130" height="42" rx="21" fill="#0D1326" stroke="#5CD6E0" stroke-opacity=".55" stroke-width="1.5"/>
+  <rect x="16" y="12" width="20" height="20" rx="4" fill="#5CD6E0"/><text x="20.5" y="27" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#0D1326">in</text>
+  <text x="50" y="27.5" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E8ECF6">LinkedIn</text>
+</svg>

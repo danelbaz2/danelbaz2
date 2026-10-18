@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 196 44" width="196" height="44" role="img" aria-label="Job Hunter, live">
+  <defs><style>.pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2s ease-out infinite; } @keyframes pulse { 0% { transform: scale(.6); opacity: 1 } 100% { transform: scale(1.6); opacity: 0 } } @media (prefers-reduced-motion: reduce) { .pulse { animation: none } }</style></defs>
+  <rect x="1" y="1" width="194" height="42" rx="21" fill="#0D1326" stroke="#6EE7A0" stroke-opacity=".55" stroke-width="1.5"/>
+  <circle class="pulse" cx="27" cy="22" r="9" fill="#6EE7A0" fill-opacity=".25"/><circle cx="27" cy="22" r="5" fill="#6EE7A0"/>
+  <text x="50" y="27.5" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E8ECF6">Job Hunter, live</text>
+</svg>
